@@ -18,7 +18,8 @@ S.No	Components/Software	Specification
 
  **Circuit Diagram**
 
-(Insert Proteus circuit diagram here)
+<img width="1341" height="792" alt="image" src="https://github.com/user-attachments/assets/727ad959-ddfb-425b-b718-2b8a98797377" />
+
 
 **Theory**
 An AC–DC converter is an electronic circuit that converts alternating current (AC) into direct current (DC). Most electronic devices require a stable DC voltage for operation; therefore, power supply circuits are widely used in electronic systems.
@@ -57,7 +58,7 @@ o	Regulated DC output
 8.	Record the output voltage and waveform characteristics.
 
 **Output**
-(Insert Proteus output diagram here)
+<img width="1343" height="750" alt="image" src="https://github.com/user-attachments/assets/efbaf2ea-52c5-41c7-abce-1c0b45482e41" />
 
 **Result**
 The AC–DC converter circuit was successfully designed and simulated using Proteus software. The alternating current input was converted into a stable direct current output through rectification, filtering, and voltage regulation stages. The simulated output voltage matched the expected theoretical values.
